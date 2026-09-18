@@ -136,15 +136,6 @@ Tenho especial interesse em oportunidades envolvendo:
 
 ---
 
-## 📈 GitHub Stats
-
-
-![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=loureiropatrick&show_icons=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loureiropatrick&layout=compact&hide_border=true)
-
----
-
 ## 🌎 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Patrick_Loureiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrickrodriguesloureiro/)
